@@ -5,18 +5,17 @@ Este repositório contém estudos, códigos e aplicações voltadas para Anális
 
 ## 📌 Objetivo
 
-Aplicar técnicas de análise de dados, estatística, machine learning e visualização para prever comportamentos futuros com base em dados históricos.
+Aplicar técnicas de análise de dados, estatística e visualização para prever comportamentos futuros com base em dados históricos.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Python 3.x  
+- Python
 - Pandas, NumPy  
-- Scikit-learn  
 - Matplotlib, Seaborn, Plotly  
 - Jupyter Notebook  
-- (Opcional) MLflow, TensorFlow, XGBoost
+
 
 ---
 
