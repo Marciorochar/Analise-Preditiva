@@ -19,19 +19,6 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```bash
-├── data/                # Conjuntos de dados (brutos e tratados)
-├── notebooks/           # Análises e testes em notebooks Jupyter
-├── src/                 # Scripts e funções reutilizáveis
-├── models/              # Modelos treinados ou checkpoints
-├── reports/             # Relatórios e apresentações
-└── README.md            # Documentação principal
-```
-
----
-
 ## 🚀 Etapas do Projeto
 
 1. **Entendimento do Problema**
@@ -48,16 +35,13 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 - Previsão de demanda
 - Classificação de clientes
 - Detecção de anomalias
-- Modelos de churn
 - Séries temporais (ex: previsão de vendas)
 
 ---
 
 ## 📚 Referências
 
-- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/)
-- [Kaggle](https://www.kaggle.com/)
-- [Scikit-learn Docs](https://scikit-learn.org/stable/)
+- 
 
 ---
 
@@ -67,13 +51,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar p
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autores
 
-**Ernesto Luiz Bragança Peralta**  
+**Katherine Zúñiga**
+**Marcio Rodrigues da Rocha**  
+**Matheus Paiva de Castro Duarte Pedrosa**  
 Projeto desenvolvido como parte dos estudos em Engenharia de Produção | Universidade Federal Fluminense
 
 ```
-
----
-
-Se quiser, posso adaptar esse `README` para um caso específico (por exemplo, previsão de vendas, manutenção preditiva, etc). É só me contar o foco principal!
