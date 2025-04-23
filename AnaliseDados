@@ -1,0 +1,14 @@
+## 📊 Análise Exploratória das Vendas – Segrob Notlad
+
+Este notebook realiza uma análise exploratória sobre os dados de vendas da marca de fast fashion Segrob Notlad, com foco em prever a demanda de camisetas básicas. As etapas incluídas são:
+
+1. **Pré-processamento** – Carregamento, conversão e organização dos dados.
+2. **Dias com maior volume de vendas** – Identificação dos dias da semana com mais vendas.
+3. **Sazonalidade mensal** – Análise de padrões ao longo dos meses.
+4. **Detecção de outliers** – Identificação de possíveis eventos promocionais.
+5. **Tendência de vendas** – Observação da evolução temporal das vendas.
+6. **Impacto de datas comemorativas** – Comparação entre feriados/eventos e dias normais.
+
+
+
+
