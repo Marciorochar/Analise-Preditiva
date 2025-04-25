@@ -12,9 +12,6 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 ## 🛠️ Tecnologias e Ferramentas
 
 - Python
-- Pandas, NumPy  
-- Matplotlib, Seaborn, Plotly  
-- Jupyter Notebook  
 
 
 ---
@@ -23,10 +20,10 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 
 1. **Entendimento do Problema**
 2. **Coleta e Pré-processamento dos Dados**
-3. **Análise Exploratória (EDA)**
+3. **Análise Exploratória**
 4. **Criação e Avaliação de Modelos**
 5. **Validação e Ajustes Finais**
-6. **Implantação (opcional)**
+6. **Implantação**
 
 ---
 
