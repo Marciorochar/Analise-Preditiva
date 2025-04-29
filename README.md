@@ -47,6 +47,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar p
 **Marcio Rodrigues da Rocha**  
 **Katherine Zúñiga**  
 **Matheus Paiva de Castro Duarte Pedrosa**  
+
+
+
 Projeto desenvolvido como parte dos estudos em Engenharia de Produção | Universidade Federal Fluminense
 
 ```
