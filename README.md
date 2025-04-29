@@ -28,13 +28,6 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 
 - Séries temporais (ex: previsão de vendas)
 
----
-
-## 📚 Referências
-
-- 
-
----
 
 ## 🤝 Contribuições
 
