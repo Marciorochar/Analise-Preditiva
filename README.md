@@ -1,7 +1,7 @@
 
 # 🔮 Análise Preditiva
 
-Este repositório contém estudos, códigos e aplicações voltadas para Análise Preditiva, com foco em transformar dados em insights que ajudem na tomada de decisões estratégicas.
+Estudo de caso sobre a empresa Segrob Notlad no Curso de Graduação em Engenharia de Produção da Universidade Federal Fluminense – Rio das Ostras-RJ como método avaliativo da disciplina Análise Preditiva.
 
 ## 📌 Objetivo
 
@@ -12,8 +12,6 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 ## 🛠️ Tecnologias e Ferramentas
 
 - Python
-
-
 ---
 
 ## 🚀 Etapas do Projeto
@@ -23,15 +21,11 @@ Aplicar técnicas de análise de dados, estatística e visualização para preve
 3. **Análise Exploratória**
 4. **Criação e Avaliação de Modelos**
 5. **Validação e Ajustes Finais**
-6. **Implantação**
 
 ---
 
 ## 📊 Exemplos de Problemas Trabalhados
 
-- Previsão de demanda
-- Classificação de clientes
-- Detecção de anomalias
 - Séries temporais (ex: previsão de vendas)
 
 ---
