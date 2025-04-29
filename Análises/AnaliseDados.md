@@ -1,4 +1,4 @@
-📊 Análise Exploratória das Vendas – Segrob Notlad
+# 📊 Análise Exploratória das Vendas – Segrob Notlad
 
 Este notebook realiza uma análise exploratória sobre os dados de vendas da marca de fast fashion Segrob Notlad, com foco em prever a demanda de camisetas básicas. As etapas incluídas são:
 
